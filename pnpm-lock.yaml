@@ -23,12 +23,12 @@ importers:
       '@astrojs/tailwind':
         specifier: ^5.1.0
         version: 5.1.0(astro@4.11.5(typescript@5.5.3))(tailwindcss@3.4.4)
-      '@fontsource-variable/lora':
-        specifier: ^5.0.18
-        version: 5.0.18
       '@fontsource/geist-sans':
         specifier: ^5.0.3
         version: 5.0.3
+      '@fontsource/lora':
+        specifier: ^5.0.16
+        version: 5.0.17
       '@tailwindcss/typography':
         specifier: ^0.5.13
         version: 0.5.13(tailwindcss@3.4.4)
@@ -441,11 +441,11 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@fontsource-variable/lora@5.0.18':
-    resolution: {integrity: sha512-Q1FCENeJuPH2TNUM4FuGnfrxpiWqdKpJgcQc0SDfI3+xjZ+T4Ot05CqI8oGVrEZHQUzs3P0RnlgsQjxsPGzk8A==}
-
   '@fontsource/geist-sans@5.0.3':
     resolution: {integrity: sha512-oGwoSIqNPMvjtCwj1lZaEr47MeiG27XPhypwkF643u1TQduvwbm3V3hYB01JekeaT34SAGP4I1h+WCdRpJkcwA==}
+
+  '@fontsource/lora@5.0.17':
+    resolution: {integrity: sha512-+mySGaReOJ9MqnchYKs2eAd2cVg+fbaZ+rIGUm29V0AjPfi0gfT+e5NaXaAAorRN1HdJOfWPwX1XUws7t/iokQ==}
 
   '@img/sharp-darwin-arm64@0.33.4':
     resolution: {integrity: sha512-p0suNqXufJs9t3RqLBO6vvrgr5OhgbWp76s5gTRvdmxmuv9E1rcaqGUsl3l4mKVmXPkTkTErXediAui4x+8PSA==}
@@ -2774,9 +2774,9 @@ snapshots:
   '@esbuild/win32-x64@0.21.5':
     optional: true
 
-  '@fontsource-variable/lora@5.0.18': {}
-
   '@fontsource/geist-sans@5.0.3': {}
+
+  '@fontsource/lora@5.0.17': {}
 
   '@img/sharp-darwin-arm64@0.33.4':
     optionalDependencies:
