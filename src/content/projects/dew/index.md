@@ -1,9 +1,9 @@
 ---
 title: "Dew"
 description: "SaaS para la gestión de negocios."
-date: "Mar 18 2024"
-demoURL: "https://astro-sphere-demo.vercel.app"
-repoURL: "https://github.com/markhorn-dev/astro-sphere"
+date: "Dec 8 2023"
+demoURL: "https://dew.cantte.com/"
+repoURL: "https://github.com/cantte/dew"
 ---
 
-![Astro Sphere Lighthouse Score](/astro-sphere.jpg)
+A SaaS to manage sales, orders, products.
