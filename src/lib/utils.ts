@@ -21,6 +21,9 @@ export function readingTime(html: string) {
 }
 
 export function dateRange(startDate: Date, endDate?: Date | string): string {
+  console.log('startDate', startDate)
+  console.log('endDate', endDate)
+
   const startMonth = startDate.toLocaleString('default', { month: 'short' })
   const startYear = startDate.getFullYear().toString()
   let endMonth
