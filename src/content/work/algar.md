@@ -1,8 +1,9 @@
 ---
-company: "Apple"
-role: "Software Engineer"
-dateStart: "01/01/2020"
-dateEnd: "11/27/2022"
+company: "Algar Tech"
+role: "Desarollador PL"
+dateStart: "11/15/2022"
+dateEnd: "Actualidad"
 ---
 
-Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora.
+Desarrollador .NET y PL/SQL en bases de datos como SQL Server y Oracle. 
+Desarollador de microservicios en .NET Core y aplicaciones web en Angular.
